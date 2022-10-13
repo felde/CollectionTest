@@ -21,7 +21,7 @@
 					"name": "SendNotification",
 					"item": [
 						{
-							"name": "Test",
+							"name": "Test Edit",
 							"request": {
 								"method": "GET",
 								"header": []
